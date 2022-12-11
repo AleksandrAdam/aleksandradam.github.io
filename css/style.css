@@ -1036,8 +1036,7 @@ footer p {
   }
 
   .contact-info {
-    margin: 0 10px;
-    display: flex;
+        display: flex;
     flex-flow: row wrap;
     padding: 13px 25px 1px 25px;
   }
